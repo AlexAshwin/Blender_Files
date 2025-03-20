@@ -1,6 +1,6 @@
 # 🚗 Low Polygon Volkswagen Beetle
 
-Welcome to the **Low Polygon Volkswagen Beetle* Blender project! 🎨 This project features a low-poly 3D model of a **Volkswagen Beetle**, designed for use in games, animations, and other creative projects.
+Welcome to the **Low Polygon Volkswagen Beetle** Blender project! 🎨 This project features a low-poly 3D model of a **Volkswagen Beetle**, designed for use in games, animations, and other creative projects.
 
 ## 📂 Project Contents
 
